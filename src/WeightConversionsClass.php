@@ -2,4 +2,6 @@
 
 namespace Evansmwenda\WeightConversions;
 
-class WeightConversionsClass {}
+class WeightConversionsClass
+{
+}

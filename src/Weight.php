@@ -11,6 +11,8 @@ class Weight
 
     public static function kilograms(float $kilograms): self
     {
+        $myArr = Array('1','2','3');
+        
         return new static ($kilograms);
     }
 
